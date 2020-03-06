@@ -1,0 +1,16 @@
+C:\Users\lucas.miranda\Desktop\drive-download-20200306T200329Z-001\Yu-Gi-Oh! IF Memories\Desenvolvimento\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Release\ProjetoInterdisciplinar.exe.config
+C:\Users\lucas.miranda\Desktop\drive-download-20200306T200329Z-001\Yu-Gi-Oh! IF Memories\Desenvolvimento\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Release\bd_yim2.mdf
+C:\Users\lucas.miranda\Desktop\drive-download-20200306T200329Z-001\Yu-Gi-Oh! IF Memories\Desenvolvimento\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Release\bd_yim2_log.ldf
+C:\Users\lucas.miranda\Desktop\drive-download-20200306T200329Z-001\Yu-Gi-Oh! IF Memories\Desenvolvimento\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Release\ProjetoInterdisciplinar.exe
+C:\Users\lucas.miranda\Desktop\drive-download-20200306T200329Z-001\Yu-Gi-Oh! IF Memories\Desenvolvimento\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Release\ProjetoInterdisciplinar.pdb
+C:\Users\lucas.miranda\Desktop\drive-download-20200306T200329Z-001\Yu-Gi-Oh! IF Memories\Desenvolvimento\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Release\pt-BR\ProjetoInterdisciplinar.resources.dll
+C:\Users\lucas.miranda\Desktop\drive-download-20200306T200329Z-001\Yu-Gi-Oh! IF Memories\Desenvolvimento\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\lucas.miranda\Desktop\drive-download-20200306T200329Z-001\Yu-Gi-Oh! IF Memories\Desenvolvimento\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Release\ProjetoInterdisciplinar.csprojResolveAssemblyReference.cache
+C:\Users\lucas.miranda\Desktop\drive-download-20200306T200329Z-001\Yu-Gi-Oh! IF Memories\Desenvolvimento\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Release\ProjetoInterdisciplinar.YGO_IM.resources
+C:\Users\lucas.miranda\Desktop\drive-download-20200306T200329Z-001\Yu-Gi-Oh! IF Memories\Desenvolvimento\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Release\ProjetoInterdisciplinar.Game.resources
+C:\Users\lucas.miranda\Desktop\drive-download-20200306T200329Z-001\Yu-Gi-Oh! IF Memories\Desenvolvimento\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Release\ProjetoInterdisciplinar.Properties.Resources.resources
+C:\Users\lucas.miranda\Desktop\drive-download-20200306T200329Z-001\Yu-Gi-Oh! IF Memories\Desenvolvimento\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Release\ProjetoInterdisciplinar.YGO_IM.pt-BR.resources
+C:\Users\lucas.miranda\Desktop\drive-download-20200306T200329Z-001\Yu-Gi-Oh! IF Memories\Desenvolvimento\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Release\ProjetoInterdisciplinar.csproj.GenerateResource.Cache
+C:\Users\lucas.miranda\Desktop\drive-download-20200306T200329Z-001\Yu-Gi-Oh! IF Memories\Desenvolvimento\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Release\pt-BR\ProjetoInterdisciplinar.resources.dll
+C:\Users\lucas.miranda\Desktop\drive-download-20200306T200329Z-001\Yu-Gi-Oh! IF Memories\Desenvolvimento\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Release\ProjetoInterdisciplinar.exe
+C:\Users\lucas.miranda\Desktop\drive-download-20200306T200329Z-001\Yu-Gi-Oh! IF Memories\Desenvolvimento\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Release\ProjetoInterdisciplinar.pdb

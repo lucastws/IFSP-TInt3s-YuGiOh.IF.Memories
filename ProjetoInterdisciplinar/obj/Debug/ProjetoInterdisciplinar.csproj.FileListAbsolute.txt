@@ -1,0 +1,117 @@
+c:\users\ifsp\documents\visual studio 2012\Projects\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\ProjetoInterdisciplinar.exe.config
+c:\users\ifsp\documents\visual studio 2012\Projects\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\ProjetoInterdisciplinar.exe
+c:\users\ifsp\documents\visual studio 2012\Projects\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\ProjetoInterdisciplinar.pdb
+c:\users\ifsp\documents\visual studio 2012\Projects\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\ifsp\documents\visual studio 2012\Projects\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.Properties.Resources.resources
+c:\users\ifsp\documents\visual studio 2012\Projects\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.csproj.GenerateResource.Cache
+c:\users\ifsp\documents\visual studio 2012\Projects\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.exe
+c:\users\ifsp\documents\visual studio 2012\Projects\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.pdb
+c:\users\ifsp\documents\visual studio 2012\Projects\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.YGO_IFSP.resources
+c:\users\ifsp\documents\visual studio 2012\Projects\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.csprojResolveAssemblyReference.cache
+c:\users\ifsp\documents\visual studio 2012\Projects\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\pt-BR\ProjetoInterdisciplinar.resources.dll
+c:\users\ifsp\documents\visual studio 2012\Projects\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.YGO_IFSP.pt-BR.resources
+c:\users\ifsp\documents\visual studio 2012\Projects\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\pt-BR\ProjetoInterdisciplinar.resources.dll
+C:\Users\mdbf4\OneDrive\Área de Trabalho\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\ProjetoInterdisciplinar.exe.config
+C:\Users\mdbf4\OneDrive\Área de Trabalho\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.exe
+C:\Users\mdbf4\OneDrive\Área de Trabalho\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.pdb
+C:\Users\mdbf4\OneDrive\Área de Trabalho\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\ProjetoInterdisciplinar.exe
+C:\Users\mdbf4\OneDrive\Área de Trabalho\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\ProjetoInterdisciplinar.pdb
+C:\Users\mdbf4\OneDrive\Área de Trabalho\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\pt-BR\ProjetoInterdisciplinar.resources.dll
+C:\Users\mdbf4\OneDrive\Área de Trabalho\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.csprojResolveAssemblyReference.cache
+C:\Users\mdbf4\OneDrive\Área de Trabalho\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.YGO_IFSP.resources
+C:\Users\mdbf4\OneDrive\Área de Trabalho\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.Properties.Resources.resources
+C:\Users\mdbf4\OneDrive\Área de Trabalho\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.YGO_IFSP.pt-BR.resources
+C:\Users\mdbf4\OneDrive\Área de Trabalho\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.csproj.GenerateResource.Cache
+C:\Users\mdbf4\OneDrive\Área de Trabalho\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\pt-BR\ProjetoInterdisciplinar.resources.dll
+C:\Users\mdbf4\OneDrive\Área de Trabalho\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.Game.resources
+C:\Interdisciplinar\ProjetoInterdisciplinar\bin\Debug\ProjetoInterdisciplinar.exe.config
+C:\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.exe
+C:\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.pdb
+C:\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.csprojResolveAssemblyReference.cache
+C:\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.YGO_IFSP.resources
+C:\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.Game.resources
+C:\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.Properties.Resources.resources
+C:\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.YGO_IFSP.pt-BR.resources
+C:\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.csproj.GenerateResource.Cache
+C:\Interdisciplinar\ProjetoInterdisciplinar\bin\Debug\ProjetoInterdisciplinar.exe
+C:\Interdisciplinar\ProjetoInterdisciplinar\bin\Debug\ProjetoInterdisciplinar.pdb
+C:\Interdisciplinar\ProjetoInterdisciplinar\bin\Debug\pt-BR\ProjetoInterdisciplinar.resources.dll
+C:\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\pt-BR\ProjetoInterdisciplinar.resources.dll
+D:\Faculdade\3s-2019\Interdisciplinar\Interdisciplinar\ProjetoInterdisciplinar\bin\Debug\ProjetoInterdisciplinar.exe.config
+D:\Faculdade\3s-2019\Interdisciplinar\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.exe
+D:\Faculdade\3s-2019\Interdisciplinar\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.pdb
+D:\Faculdade\3s-2019\Interdisciplinar\Interdisciplinar\ProjetoInterdisciplinar\bin\Debug\ProjetoInterdisciplinar.exe
+D:\Faculdade\3s-2019\Interdisciplinar\Interdisciplinar\ProjetoInterdisciplinar\bin\Debug\ProjetoInterdisciplinar.pdb
+D:\Faculdade\3s-2019\Interdisciplinar\Interdisciplinar\ProjetoInterdisciplinar\bin\Debug\pt-BR\ProjetoInterdisciplinar.resources.dll
+D:\Faculdade\3s-2019\Interdisciplinar\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.csprojResolveAssemblyReference.cache
+D:\Faculdade\3s-2019\Interdisciplinar\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.YGO_IFSP.resources
+D:\Faculdade\3s-2019\Interdisciplinar\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.Game.resources
+D:\Faculdade\3s-2019\Interdisciplinar\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.Properties.Resources.resources
+D:\Faculdade\3s-2019\Interdisciplinar\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.YGO_IFSP.pt-BR.resources
+D:\Faculdade\3s-2019\Interdisciplinar\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.csproj.GenerateResource.Cache
+D:\Faculdade\3s-2019\Interdisciplinar\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\pt-BR\ProjetoInterdisciplinar.resources.dll
+F:\Faculdade\3s-2019\Interdisciplinar\Interdisciplinar\ProjetoInterdisciplinar\bin\Debug\ProjetoInterdisciplinar.exe.config
+F:\Faculdade\3s-2019\Interdisciplinar\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.exe
+F:\Faculdade\3s-2019\Interdisciplinar\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.pdb
+F:\Faculdade\3s-2019\Interdisciplinar\Interdisciplinar\ProjetoInterdisciplinar\bin\Debug\ProjetoInterdisciplinar.exe
+F:\Faculdade\3s-2019\Interdisciplinar\Interdisciplinar\ProjetoInterdisciplinar\bin\Debug\ProjetoInterdisciplinar.pdb
+F:\Faculdade\3s-2019\Interdisciplinar\Interdisciplinar\ProjetoInterdisciplinar\bin\Debug\pt-BR\ProjetoInterdisciplinar.resources.dll
+F:\Faculdade\3s-2019\Interdisciplinar\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.csprojResolveAssemblyReference.cache
+F:\Faculdade\3s-2019\Interdisciplinar\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.YGO_IFSP.resources
+F:\Faculdade\3s-2019\Interdisciplinar\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.Game.resources
+F:\Faculdade\3s-2019\Interdisciplinar\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.Properties.Resources.resources
+F:\Faculdade\3s-2019\Interdisciplinar\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.YGO_IFSP.pt-BR.resources
+F:\Faculdade\3s-2019\Interdisciplinar\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.csproj.GenerateResource.Cache
+F:\Faculdade\3s-2019\Interdisciplinar\Interdisciplinar\ProjetoInterdisciplinar\obj\Debug\pt-BR\ProjetoInterdisciplinar.resources.dll
+E:\Faculdade\3s-2019\Interdisciplinar\Sistema\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\ProjetoInterdisciplinar.exe.config
+E:\Faculdade\3s-2019\Interdisciplinar\Sistema\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.exe
+E:\Faculdade\3s-2019\Interdisciplinar\Sistema\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.pdb
+C:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\ProjetoInterdisciplinar.exe.config
+C:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.exe
+C:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.pdb
+C:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\ProjetoInterdisciplinar.exe
+C:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\ProjetoInterdisciplinar.pdb
+C:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\pt-BR\ProjetoInterdisciplinar.resources.dll
+C:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.csprojResolveAssemblyReference.cache
+C:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.Game.resources
+C:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.Properties.Resources.resources
+C:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.csproj.GenerateResource.Cache
+C:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\pt-BR\ProjetoInterdisciplinar.resources.dll
+C:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\bd_yim2.mdf
+C:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\bd_yim2_log.ldf
+D:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\ProjetoInterdisciplinar.exe.config
+D:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.exe
+D:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.pdb
+D:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\bd_yim2.mdf
+D:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\bd_yim2_log.ldf
+D:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\ProjetoInterdisciplinar.exe
+D:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\ProjetoInterdisciplinar.pdb
+D:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\pt-BR\ProjetoInterdisciplinar.resources.dll
+D:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.csprojResolveAssemblyReference.cache
+D:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.YGO_IFSP.resources
+D:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.Game.resources
+D:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.Properties.Resources.resources
+D:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.YGO_IFSP.pt-BR.resources
+D:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.csproj.GenerateResource.Cache
+D:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\pt-BR\ProjetoInterdisciplinar.resources.dll
+C:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.YGO_IM.resources
+C:\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.YGO_IM.pt-BR.resources
+E:\Faculdade\3s-2019\Interdisciplinar\Yu-Gi-Oh! IF Memories\Sistema\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\ProjetoInterdisciplinar.exe.config
+E:\Faculdade\3s-2019\Interdisciplinar\Yu-Gi-Oh! IF Memories\Sistema\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.exe
+E:\Faculdade\3s-2019\Interdisciplinar\Yu-Gi-Oh! IF Memories\Sistema\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.pdb
+E:\Faculdade\3s-2019\Interdisciplinar\Yu-Gi-Oh! IF Memories\Sistema\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\bd_yim2.mdf
+E:\Faculdade\3s-2019\Interdisciplinar\Yu-Gi-Oh! IF Memories\Sistema\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\bd_yim2_log.ldf
+E:\Faculdade\3s-2019\Interdisciplinar\Yu-Gi-Oh! IF Memories\Sistema\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\ProjetoInterdisciplinar.exe
+E:\Faculdade\3s-2019\Interdisciplinar\Yu-Gi-Oh! IF Memories\Sistema\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\ProjetoInterdisciplinar.pdb
+E:\Faculdade\3s-2019\Interdisciplinar\Yu-Gi-Oh! IF Memories\Sistema\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\pt-BR\ProjetoInterdisciplinar.resources.dll
+E:\Faculdade\3s-2019\Interdisciplinar\Yu-Gi-Oh! IF Memories\Sistema\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.csprojResolveAssemblyReference.cache
+E:\Faculdade\3s-2019\Interdisciplinar\Yu-Gi-Oh! IF Memories\Sistema\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.YGO_IM.resources
+E:\Faculdade\3s-2019\Interdisciplinar\Yu-Gi-Oh! IF Memories\Sistema\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.Game.resources
+E:\Faculdade\3s-2019\Interdisciplinar\Yu-Gi-Oh! IF Memories\Sistema\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.Properties.Resources.resources
+E:\Faculdade\3s-2019\Interdisciplinar\Yu-Gi-Oh! IF Memories\Sistema\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.YGO_IM.pt-BR.resources
+E:\Faculdade\3s-2019\Interdisciplinar\Yu-Gi-Oh! IF Memories\Sistema\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.csproj.GenerateResource.Cache
+E:\Faculdade\3s-2019\Interdisciplinar\Yu-Gi-Oh! IF Memories\Sistema\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\pt-BR\ProjetoInterdisciplinar.resources.dll
+E:\Faculdade\3s-2019\Interdisciplinar\Yu-Gi-Oh! IF Memories\Sistema\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\lucas.miranda\Desktop\drive-download-20200306T200329Z-001\Yu-Gi-Oh! IF Memories\Desenvolvimento\ProjetoInterdisciplinar\ProjetoInterdisciplinar\bin\Debug\ProjetoInterdisciplinar.exe.config
+C:\Users\lucas.miranda\Desktop\drive-download-20200306T200329Z-001\Yu-Gi-Oh! IF Memories\Desenvolvimento\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.exe
+C:\Users\lucas.miranda\Desktop\drive-download-20200306T200329Z-001\Yu-Gi-Oh! IF Memories\Desenvolvimento\ProjetoInterdisciplinar\ProjetoInterdisciplinar\obj\Debug\ProjetoInterdisciplinar.pdb
